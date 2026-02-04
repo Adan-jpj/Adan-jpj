@@ -3,7 +3,7 @@
 
 - A ping pong game on python [ping pong.py](C:\Users\Adan Shoaib\OneDrive\Desktop\Ping pong.py.py.bz2)
 
-- 🌱 I’m currently learning **MYSQL,SQL,ML**
+- 🌱 I’m currently learning **MYSQL,SQL,ML,Web devlopment**
 
 - 👯 I’m looking to collaborate on **Machine learning**
 
